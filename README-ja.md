@@ -2,12 +2,12 @@
 
 ![MulL](https://enuwbt.neocities.org/images/ic_mull.png)
 
-![日本語](https://img.shields.io/badge/Japanese-inactive?style=for-the-badge)
-[![English](https://img.shields.io/badge/English-informational?style=for-the-badge)](README.md)
+![Japanese](https://img.shields.io/badge/日本語-inactive?style=for-the-badge)
+[![English](https://img.shields.io/badge/英語-informational?style=for-the-badge)](README.md)
 
 MulL は非公式のMinecraft:PE ユーティリティクライアントで、レンダリングのカスタマイズや簡単なスクリプティング、特別な機能を提供するために作成されました。
 
-## Table of contents
+## 目次
 
 - [お断り](#お断り)
 - [セキュリティ](#セキュリティ)
