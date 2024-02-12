@@ -13,6 +13,8 @@ MulL is an unofficial Minecraft:PE utility client created to provide users with 
 - [Security](#security)
 - [Install](#install)
 - [Usage](#usage)
+- [Introduction](#Introduction)
+- [Feature](#feature)
 
 ## Attention
 
@@ -48,4 +50,34 @@ You can obtain the apk of this application from [release]()
 ![Setting Tab](https://enuwbt.neocities.org/images/mull_setting_tab.jpg)
 
 ・Configure settings related to the application.
+
+## Introduction
+
+Like Toolbox for Minecraft and BlockLauncher, MulL is a comprehensive launcher-type client, but unlike them, which require regular maintenance of the application itself whenever Minecraft is updated, **MulL will not lose launch compatibility unless a destructive update is made to Minecraft.**
+
+At the same time, MulL is meant to be a pilot application and stability cannot be guaranteed. In addition, most of the special features offered by MulL rely on low-level layers and are more susceptible to Minecraft updates.
+
+Note that regular updates will be released before MulL adapts to these issues.
+
+## Feature
+
+### MaterialBin Override
+
+When "MaterialBin Override" is enabled, the following features are provided
+
+- Load material.bin from resource packs
+
+### Client Modules
+
+When "Client Modules" is enabled, the following features are provided
+
+![Features](https://enuwbt.neocities.org/images/mull_features.jpg)
+
+- New video setting
+- Render chunkmap
+- Disable render entities
+- Disable render block entities
+- Disable render weather
+- Disable render particles
+
   
