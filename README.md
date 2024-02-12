@@ -15,6 +15,7 @@ MulL is an unofficial Minecraft:PE utility client created to provide users with 
 - [Usage](#usage)
 - [Introduction](#Introduction)
 - [Feature](#feature)
+- [Issue](#issue)
 
 ## Attention
 
@@ -80,4 +81,20 @@ When "Client Modules" is enabled, the following features are provided
 - Disable render weather
 - Disable render particles
 
-  
+## Issue
+
+### Crash when signing in to Xbox
+
+It is speculated that the bug is caused by a difference in the versions of WebView used by MulL and Minecraft.
+However, the sign-in itself continues and the operation is successfully completed.
+
+### Licence error
+
+This is caused when MulL is unable to successfully negotiate with the Minecraft/GooglePlay servers.
+Please restart after some time.
+
+### Resource pack loading crash
+
+MulL does not support launching an intent startup.
+Therefore, in order to load a resource pack in MulL, you must start Minecraft on MulL before loading it.
+This issue will be resolved in a subsequent update.
