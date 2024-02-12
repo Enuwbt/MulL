@@ -3,7 +3,7 @@
 ![MulL](https://enuwbt.neocities.org/images/ic_mull.png)
 
 ![English](https://img.shields.io/badge/English-inactive?style=for-the-badge)
-[![Japanese](https://img.shields.io/badge/Japanese-informational?style=for-the-badge)](README_ja.md)
+[![Japanese](https://img.shields.io/badge/Japanese-informational?style=for-the-badge)](README-ja.md)
 
 MulL is an unofficial Minecraft:PE utility client created to provide users with rendering customization, simple scripting, and special features.
 
