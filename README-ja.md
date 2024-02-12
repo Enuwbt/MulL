@@ -13,6 +13,8 @@ MulL は非公式のMinecraft:PE ユーティリティクライアントで、�
 - [セキュリティ](#セキュリティ)
 - [インストール](#インストール)
 - [使用方法](#使用方法)
+- [前置き](#前置き)
+- [機能](#機能)
 
 ## お断り
 Minecraft:PEのハッククライアントの作成を防ぐため、MulLのソースコードの公開は控えさせていただきます。
@@ -47,4 +49,33 @@ Minecraft:PEのハッククライアントの作成を防ぐため、MulLのソ�
 ![Setting Tab](https://enuwbt.neocities.org/images/mull_setting_tab.jpg)
 
 ・アプリケーションに関連する設定を行います。
+
+## 前置き
+
+Toolbox for MinecraftやBlockLauncherと同じように、MulLは包括ランチャー型のクライアントですが、Minecraftがアップデートされるたびにアプリケーション自体の定期的なメンテナンスが必要となるそれらとは違い、**Minecraftに破壊的なアップデートが行われない限り、MulLは起動互換性を失うことはありません。**
+
+同時に、MulLは試験的なアプリケーションであることを意味しており、安定性を保証できません。また、MulLが提供する特殊な機能のほとんどは低レベルなレイヤーに依存しており、よりMinecraftのアップデートの影響を受けやすい状況にあります。
+
+MulLがこのような問題に適応するまでに、定期的なアップデートが配信されることに注意してください。
   
+## 機能
+
+### MaterialBin Override
+
+"MaterialBin Override"が有効化された場合、以下の機能が提供されます。
+
+- リソースパックからmaterial.binファイルを読み込むことを許可
+
+### Client Modules
+
+"Client Modules"が有効化された場合、以下の機能が提供されます。
+
+![Features](https://enuwbt.neocities.org/images/mull_features.jpg)
+
+- 新しいビデオ設定
+- チャンクマップの表示
+- エンティティの表示無効
+- ブロックエンティティの表示無効
+- 天気の表示無効
+- パーティクルの表示無効
+
