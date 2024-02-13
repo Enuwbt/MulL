@@ -32,7 +32,7 @@ Minecraft:PEのハッククライアントの作成を防ぐため、MulLのソ�
 
 ## インストール
 
-[release]() からこのアプリケーションのapkを取得することが出来ます。
+[release](https://github.com/Enuwbt/MulL/releases/) からこのアプリケーションのapkを取得することが出来ます。
 
 ## 使用方法
 
