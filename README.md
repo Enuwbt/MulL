@@ -33,7 +33,7 @@ When using this application, the User shall comply with all relevant laws and re
 
 ## Install
 
-You can obtain the apk of this application from [release]()
+You can obtain the apk of this application from [release](https://github.com/Enuwbt/MulL/releases/)
 
 ## Usage
 
